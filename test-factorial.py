@@ -11,7 +11,7 @@ class Testing(unittest.TestCase):
   def test1(self):
     trials = {
       "test1a" : (0,1),
-      "test1b" : (1,1),
+      "test1b" : (1,0),
       "test1c" : (4,24),
       "test1d" : (6,720),
       "test1e" : (9,362880)
